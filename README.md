@@ -19,3 +19,6 @@ Will make QR codes for you in a bit.
   - And also used `tkinter` to display the QR Code at the time of code execution.
   
 > Feel free to [create an issue](https://github.com/ajain9926/QR-Code-Generator.py/issues/new) if you're facing any error(s).
+
+Contributions ~ 
+- [** Saarthak Srivastava **](https://github.com/saarthakofficial)
