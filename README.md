@@ -21,4 +21,4 @@ Will make QR codes for you in a bit.
 > Feel free to [create an issue](https://github.com/ajain9926/QR-Code-Generator.py/issues/new) if you're facing any error(s).
 
 Contributions ~ 
-- [** Saarthak Srivastava **](https://github.com/saarthakofficial)
+- [Saarthak Srivastava](https://github.com/saarthakofficial)
